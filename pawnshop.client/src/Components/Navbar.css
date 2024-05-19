@@ -1,0 +1,19 @@
+.navbar-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.MuiButton-root {
+    text-transform: none;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+.username {
+    text-align: center !important;
+}
+
+.username:hover {
+    color: tomato !important;
+    transform: scale(1.05, 1.05) !important;
+}
